@@ -1,0 +1,14 @@
+{
+  "Variations": [
+    {
+      "Name": "Default",
+      "Fields": [
+        { "Key": "Rarity", "Value": "Common" },
+        { "Key": "Useable", "Value": "Clothing" },
+        { "Key": "Size_X", "Value": "1" },
+        { "Key": "Size_Y", "Value": "1" },
+        { "Key": "Size_Z", "Value": "0.5" }
+      ]
+    }
+  ]
+}

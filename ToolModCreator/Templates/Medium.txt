@@ -1,0 +1,6 @@
+GUID {{GUID}}
+
+Type {{Type}}
+ID {{ID}}
+
+Has_Clip_Prefab false

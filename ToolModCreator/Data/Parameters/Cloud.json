@@ -1,0 +1,14 @@
+{
+  "Variations": [
+    {
+      "Name": "Default",
+      "Fields": [
+        { "Key": "Rarity", "Value": "Common" },
+        { "Key": "Useable", "Value": "Cloud" },
+        { "Key": "Size_X", "Value": "2" },
+        { "Key": "Size_Y", "Value": "2" },
+        { "Key": "Size_Z", "Value": "0.5" }
+      ]
+    }
+  ]
+}

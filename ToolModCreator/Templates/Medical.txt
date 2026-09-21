@@ -1,0 +1,10 @@
+GUID {{GUID}}
+
+Type {{Type}}
+Rarity {{Rarity}}
+Useable {{Useable}}
+ID {{ID}}
+
+Size_X {{Size_X}}
+Size_Y {{Size_Y}}
+Size_Z {{Size_Z}}

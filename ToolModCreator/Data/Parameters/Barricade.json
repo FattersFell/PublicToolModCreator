@@ -1,0 +1,22 @@
+{
+  "Variations": [
+    {
+      "Name": "Default",
+      "Fields": [
+        { "Key": "Rarity", "Value": "Common" },
+        { "Key": "Useable", "Value": "Barricade" },
+        { "Key": "Build", "Value": "Campfire" },
+        { "Key": "Size_X", "Value": "1" },
+        { "Key": "Size_Y", "Value": "1" },
+        { "Key": "Size_Z", "Value": "0.5" },
+        { "Key": "Health", "Value": "200" },
+        { "Key": "Range", "Value": "4" },
+        { "Key": "Radius", "Value": "0.6" },
+        { "Key": "Offset", "Value": "0.7" },
+        { "Key": "Explosion", "Value": "19" },
+        { "Key": "Has_Clip_Prefab", "Value": "false" },
+        { "Key": "Procedurally_Animate_Inertia", "Value": "false" }
+      ]
+    }
+  ]
+}

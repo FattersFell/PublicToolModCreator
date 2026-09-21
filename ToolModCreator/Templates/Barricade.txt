@@ -1,0 +1,22 @@
+GUID {{GUID}}
+
+Type {{Type}}
+Rarity {{Rarity}}
+Useable {{Useable}}
+Build {{Build}}
+ID {{ID}}
+
+Size_X {{Size_X}}
+Size_Y {{Size_Y}}
+Size_Z {{Size_Z}}
+
+Health {{Health}}
+Range {{Range}}
+Radius {{Radius}}
+Offset {{Offset}}
+
+Explosion {{Explosion}}
+
+Has_Clip_Prefab {{Has_Clip_Prefab}}
+
+Procedurally_Animate_Inertia {{Procedurally_Animate_Inertia}}
